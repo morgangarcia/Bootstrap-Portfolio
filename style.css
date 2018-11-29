@@ -10,7 +10,7 @@ body {
 .container {
     width: 100%;
     max-width: 960px;
-    margin: 0 auto;
+    margin: 0 auto 0 auto;
     clear: both;
 }
 
@@ -177,3 +177,4 @@ textarea {
         padding: 10px 30px;
         cursor: hover;
     }
+   
